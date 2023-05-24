@@ -12,18 +12,4 @@
         "MaxAgeSeconds": 3000
     }
 ]
-[
-    {
-        "AllowedHeaders": [
-            "Authorization"
-        ],
-        "AllowedMethods": [
-            "GET"
-        ],
-        "AllowedOrigins": [
-            "*"
-        ],
-        "MaxAgeSeconds": 3000
-    }
-]
 
