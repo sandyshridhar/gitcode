@@ -10,5 +10,3 @@ x=x-y;//x=40 (50-10)
 printf("\nthe value after swaping is:x=%d\n y=%d",x,y);
 return 0;
 }
-x=y-z;
-y=x+z;
